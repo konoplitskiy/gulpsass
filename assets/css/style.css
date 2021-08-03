@@ -1,0 +1,18 @@
+body {
+  background-color: green;
+  color: #fff;
+}
+
+body {
+  font-size: 90px;
+}
+
+@media (max-width: 1200px) {
+  body {
+    line-height: 12px;
+  }
+
+  body {
+    font-size: 34px;
+  }
+}

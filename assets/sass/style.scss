@@ -1,0 +1,11 @@
+
+body{
+    background-color: green;
+    color: #fff;
+    @media(max-width:1200px) {
+        line-height: 12px;
+    }
+}
+
+@import './base.scss';
+

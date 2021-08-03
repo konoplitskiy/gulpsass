@@ -1,0 +1,22 @@
+{
+  "name": "zborka",
+  "version": "1.0.0",
+  "description": "SCSS CSS ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "@Konoplitskiy",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-sass": "^5.0.0",
+    "sass": "^1.37.0"
+  },
+  "dependencies": {
+    "browser-sync": "^2.27.5",
+    "del": "^6.0.0",
+    "gulp-group-css-media-queries": "^1.2.2"
+  }
+}
